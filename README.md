@@ -1,1 +1,1 @@
-# game-of-spaceship-
+# game
